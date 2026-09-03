@@ -81,15 +81,13 @@ flutter run
 ```
 
 ## 📸 Screenshots
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b40a0f82-09fb-4a6b-a472-56e1a81f5d8f" />
+ <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ea541d1e-f07e-4cfe-a79e-a79e88fe527a" />
+ <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/aa896206-9457-4f68-b5bd-972aa8dde21d" />
 
-Add your application screenshots here:
+  
 
-```markdown
-![Home Screen](screenshots/home.png)
-![Explore Screen](screenshots/explore.png)
-![Trip Planner](screenshots/trip_planner.png)
-![Trip Details](screenshots/trip_details.png)
-![Profile Screen](screenshots/profile.png)
+
 ```
 
 ## 🎯 Purpose
